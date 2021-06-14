@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anteofabris
 - 👀 I’m interested in databases
 - 🌱 I’m currently learning Advanced PostgreSQL operations
-- 💞️ I’m collaborating on OS contributions!
+- 💞️ I’m collaborating on OS contributions
 - 📫 How to reach me: anteo8fabris@gmail.com
 
 <!---
