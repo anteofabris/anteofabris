@@ -1,7 +1,7 @@
 - @anteofabris
 - Data/databases
 - PostgreSQL, MongoDB/Atlas
-- Currently working on an interactive IDE.
+- Currently working on an interactive IDE web app.
 - anteo8fabris@gmail.com
 
 <!---
