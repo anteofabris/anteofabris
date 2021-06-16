@@ -1,5 +1,5 @@
 - @anteofabris
-- Data/databases
+- Interested in data/databases
 - PostgreSQL, MongoDB/Atlas
 - Currently working on an interactive IDE web app.
 - anteo8fabris@gmail.com
