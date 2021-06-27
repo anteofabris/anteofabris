@@ -1,7 +1,7 @@
 - @anteofabris
-- Interested in data/databases
-- PostgreSQL, MongoDB/Atlas
-- Currently working on an interactive IDE web app.
+- Full-stack engineer interested in databases, APIs and front-end frameworks
+- NodeJS, Express, React, PostgreSQL, MongoDB/Atlas
+- Currently working on an interactive IDE web app
 - anteo8fabris@gmail.com
 
 <!---
