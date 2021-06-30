@@ -1,7 +1,7 @@
 - @anteofabris
 - Full-stack engineer interested in databases, APIs and front-end frameworks
 - NodeJS, Express, React, PostgreSQL/Sequelize, MongoDB/Mongoose/Atlas
-- Currently working on an interactive data sonification app with ToneJS
+- Currently working on an [interactive data sonification app](https://github.com/anteofabris/string-quartet) with ToneJS
 - anteo8fabris@gmail.com
 
 <!---
