@@ -1,7 +1,7 @@
 - @anteofabris
 - Full-stack engineer interested in databases, APIs and front-end frameworks
-- NodeJS, Express, React, PostgreSQL, MongoDB/Atlas
-- Currently working on an interactive IDE web app
+- NodeJS, Express, React, PostgreSQL/Sequelize, MongoDB/Mongoose/Atlas
+- Currently working on an interactive data sonification app with ToneJS
 - anteo8fabris@gmail.com
 
 <!---
