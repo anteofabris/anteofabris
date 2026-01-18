@@ -11,6 +11,7 @@ I’m Swiss-American, I have a Masters degree in music composition, I'm a jazz d
 Check out my [interactive data sonification app](https://github.com/anteofabris/string-quartet), made with with ToneJS
 
 Reach out: anteo8fabris@gmail.com
+
 Connect on LinkedIn: https://www.linkedin.com/in/anteofabris/
 
 <!---
