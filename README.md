@@ -6,7 +6,7 @@ I’m a business intelligence developer at Yale New Haven Health Systems with ov
 
 I work primarily with TypeScript, React, GraphQL, Apollo, MSSQL, SQL, and PowerShell.
 
-I’m Swiss-American, I have a Masters degree in music composition, I'm a jazz drummer in my free time, and I love to travel. I strongly value mental health and the psychoanalytic process. Feel free to ask me about it!
+I’m Swiss-American, I have a Masters degree in music composition, I'm a jazz drummer in my free time, and I love to travel.
 
 Check out my [interactive data sonification app](https://github.com/anteofabris/string-quartet), made with with ToneJS
 
