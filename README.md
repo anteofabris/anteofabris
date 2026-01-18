@@ -1,6 +1,8 @@
 @anteofabris
 
-I’m a business intelligence developer at Yale New Haven Health with over four years of experience building data pipelines and full-stack applications for healthcare teams. I focus on modernizing legacy systems, integrating APIs into company infrastructure, and shipping reliable, scalable tools in a regulated environment.
+Tucson, AZ
+
+I’m a business intelligence developer at Yale New Haven Health Systems with over four years of experience optimizing operations for healthcare teams. I focus on modernizing legacy systems, integrating APIs into company infrastructure, and shipping reliable, scalable tools in a regulated environment.
 
 I work primarily with TypeScript, React, GraphQL, Apollo, MSSQL, SQL, and PowerShell.
 
