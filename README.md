@@ -8,7 +8,9 @@ I work primarily with TypeScript, React, GraphQL, Apollo, MSSQL, SQL, and PowerS
 
 I’m Swiss-American, I have a Masters degree in music composition, I'm a jazz drummer in my free time, and I love to travel.
 
-Check out my [interactive data sonification app](https://github.com/anteofabris/string-quartet), made with with ToneJS
+While my current contributions as an employee are within a private GitHub network, this is the account where I share my own projects: anything from app idea MVP's to artwork.
+
+Check out my [tokenized engagement platform](https://github.com/anteofabris/tokenized-engagement-platform) for local businesses, or my interactive art piece "[InfoArchivoPhonography](https://github.com/anteofabris/infoarchivophonography)" that "plays" headlines.
 
 Reach out: anteo8fabris@gmail.com
 
